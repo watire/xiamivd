@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.watire.xiamivd.FullScreenVideoView
+        android:id="@+id/vvSplash"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <ImageView
+        android:id="@+id/ivSlogan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:src="@drawable/slogan_1"
+        android:scaleType="fitEnd"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

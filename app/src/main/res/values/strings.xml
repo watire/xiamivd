@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XiamiVD</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_enter_app">进入虾米 5.8.0</string>
+
+</resources>
