@@ -2,7 +2,7 @@
 
 ![demo](http://i.giphy.com/37c2VScSRIu5y.gif)
   
-  事情起源于Wing神的爆炸酷炫的splash，大家讨论起各式启动页、欢迎页，其中一款勾起我与海伦童鞋的兴趣：滴滴打车首次启动的动画效果。  
+  事情起源于[Wing神的爆炸酷炫的splash](https://github.com/githubwing/WowSplash)，大家讨论起各式启动页、欢迎页，其中一款勾起我与海伦童鞋的兴趣：滴滴打车首次启动的动画效果。
 经分析，有以下几种组成：
 	
 1. App启动时的第一张图：入口Activity设置Theme background，将图片设为启动页，
